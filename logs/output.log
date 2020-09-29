@@ -1,0 +1,22 @@
+2020-09-28 08:51:08 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h42m31s49ms736µs600ns).
+2020-09-28 09:56:35 [http-nio-8888-exec-7] INFO  com.zxq.controller.UserController - user getVerityCode = f5g54
+2020-09-28 09:56:55 [http-nio-8888-exec-2] INFO  com.zxq.controller.UserController - user getVerityCode = 9t9sk
+2020-09-28 09:57:12 [http-nio-8888-exec-1] INFO  com.zxq.controller.UserController - user getVerityCode = 4jciz
+2020-09-28 09:57:14 [http-nio-8888-exec-3] INFO  com.zxq.controller.UserController - user getVerityCode = szivc
+2020-09-28 09:57:15 [http-nio-8888-exec-5] INFO  com.zxq.controller.UserController - user getVerityCode = o1tfm
+2020-09-28 09:57:18 [http-nio-8888-exec-6] INFO  com.zxq.controller.UserController - user getVerityCode = ug91r
+2020-09-28 09:58:47 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m7s826ms745µs400ns).
+2020-09-28 09:59:55 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m7s601ms37µs).
+2020-09-28 10:00:55 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m439ms626µs600ns).
+2020-09-28 16:40:52 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h38m53s718ms886µs800ns).
+2020-09-28 16:40:52 [Thread-10] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@54ab1ce9: startup date [Sun Sep 27 11:32:51 CST 2020]; root of context hierarchy
+2020-09-28 16:40:52 [Thread-10] INFO  o.s.context.support.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+2020-09-28 16:40:52 [Thread-10] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_LAPTOP-9N12UK6F1601177573715 paused.
+2020-09-28 16:40:53 [Thread-10] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2020-09-28 16:40:53 [Thread-10] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans
+2020-09-28 16:40:53 [Thread-10] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2020-09-28 16:40:53 [Thread-10] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_LAPTOP-9N12UK6F1601177573715 shutting down.
+2020-09-28 16:40:53 [Thread-10] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_LAPTOP-9N12UK6F1601177573715 paused.
+2020-09-28 16:40:53 [Thread-10] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_LAPTOP-9N12UK6F1601177573715 shutdown complete.
+2020-09-28 16:40:53 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-09-28 16:40:53 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
